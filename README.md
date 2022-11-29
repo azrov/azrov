@@ -1,6 +1,6 @@
 <h1>👋 Hi there and welcome to my profile</h3>
 <h3>I'm Sergej, a full stack JavaScript developer from Dresden, Germany</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4gray" alt="azrov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azrov" alt="azrov" /> </p>
 
 - 🔭 I’m currently working on [IPTVnator](https://github.com/azrov/iptvnator) and [Oversetter](https://azrov.github.io/oversetter/)
 - 🌱 I’m currently learning Vue, Svelte & GraphQL
